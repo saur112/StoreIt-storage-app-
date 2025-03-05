@@ -25,8 +25,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 - [StoreIt](https://store-it-storage-app.vercel.app/sign-in) 
 
 ## ScreenShot
+Sing in Page
 -![Screenshot 2025-03-06 002602](https://github.com/user-attachments/assets/c8a66a1a-70c6-4f93-9eb7-3edf51e8e4ba)
+
+Dashboard
 -![Screenshot 2025-03-06 003045](https://github.com/user-attachments/assets/4ac92400-5262-4138-9ad1-96542a1d1796)
+
+File uploaded section
 -![Screenshot 2025-03-06 003155](https://github.com/user-attachments/assets/413bc37c-8c32-4258-9fcb-345b025c825c)
 
 
